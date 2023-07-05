@@ -10,7 +10,7 @@ We included all **five** different SSPs to represent the wide spectrum of potent
 + **SSP5 Fossil-fueled Development** - A future where economic growth is the main goal, and fossil fuels play a major role. Population grows quickly, environmental regulations are weak, and international cooperation is limited. Renewable energy and climate change efforts are not given much attention.
 
 We received the underlying data from different sources:
-+ **Population**:
-+ **Gross domestic product**:
-+ **Wood demand & price**:
-+ **Carbon price**:  
++ **Population**: gridded data by [Wang et al. (2022)](https://www.nature.com/articles/s41597-022-01675-x) and [Jones & O'Neill (2016)](https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084003/meta)
++ **Gross domestic product**: gridded data by [Wang & Sun (2022)](https://www.nature.com/articles/s41597-022-01300-x) and [Murakami et al. (2021)](https://www.frontiersin.org/articles/10.3389/fbuil.2021.760306/full)
++ **Wood demand & price**: resolution on regional level (wood price) and country level (wood demand) modelled by [GLOBIOM from Lauri et al. (2019)](https://pure.iiasa.ac.at/id/eprint/16163/)
++ **Carbon price**: resolution by regions (e.g., OECD, Asia) from the [IIASA SSP database](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10)  
