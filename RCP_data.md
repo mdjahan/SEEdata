@@ -9,3 +9,5 @@ We included **three** different RCPs to represent the wide spectrum of change:
 
 The climate data itself consists of daily temperature and precipitation. It was provided by the CORDEX project and the EU Joint Research Centre (JRC). Each of the three scenarios is represented by **10** different underlying models to account for uncertainties and make the data more reliable.
 All data is bias-correct following [ISIMIP](https://www.isimip.org/gettingstarted/isimip3b-bias-adjustment/) and has a resoultion of ~12.5km.
+
+For your region we extracted the data for one representative coordinate in the middle of your region. 
