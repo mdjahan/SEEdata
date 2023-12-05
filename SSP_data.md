@@ -12,6 +12,6 @@ We included all **five** different SSPs to represent the wide spectrum of potent
 We received the underlying data from different sources:
 + **Population**: gridded data by [Wang et al. (2022)](https://www.nature.com/articles/s41597-022-01675-x) and [Jones & O'Neill (2016)](https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084003/meta)
 + **Gross domestic product**: gridded data by [Wang & Sun (2022)](https://www.nature.com/articles/s41597-022-01300-x) and [Murakami et al. (2021)](https://www.frontiersin.org/articles/10.3389/fbuil.2021.760306/full)
-+ **Wood price**: resolution on regional level (wood price) modelled by [GLOBIOM from Lauri et al. (2019)](https://pure.iiasa.ac.at/id/eprint/16163/)
++ **Wood price**: resolution on EU-regional level (wood price) modelled by [GLOBIOM from Lauri et al. (2019)](https://pure.iiasa.ac.at/id/eprint/16163/)
 
 The data was extracted for each region on a **NUTS3** level and changes were averagde over this area and adapted to observed historical data provided by Eurostat. 
