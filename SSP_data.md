@@ -14,4 +14,4 @@ We received the underlying data from different sources:
 + **Gross domestic product**: gridded data by [Wang & Sun (2022)](https://www.nature.com/articles/s41597-022-01300-x) and [Murakami et al. (2021)](https://www.frontiersin.org/articles/10.3389/fbuil.2021.760306/full)
 + **Wood price**: resolution on EU-regional level (wood price) modelled by [GLOBIOM from Lauri et al. (2019)](https://pure.iiasa.ac.at/id/eprint/16163/)
 
-The data was extracted for each region on a **NUTS3** level and changes were averagde over this area and adapted to observed historical data provided by Eurostat. 
+The data was extracted for each region on a **NUTS3** level and changes were averaged over this area and adapted to observed historical data provided by Eurostat. 
